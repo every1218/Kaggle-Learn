@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Learn-blue)](https://www.kaggle.com/learn)
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리하는 레포지토리입니다.
 
