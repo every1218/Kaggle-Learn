@@ -6,9 +6,13 @@
 
 Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리하는 레포지토리입니다.
 
+완료(✅), 진행 중(🔥), 예정(📅)
+
 ---
 
-## 🐍 [Tutorial 1 - Python](https://www.kaggle.com/learn/python)  
+## 🐍 [01 - Python](https://www.kaggle.com/learn/python)  
+[✅ **완료**]
+
 ⏳ 학습 기간: **25.06.24 ~ 25.07.13**
 
 ### Lecture Notes
@@ -30,7 +34,9 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 
 ---
 
-## 🐼 [Tutorial 2 - Pandas](https://www.kaggle.com/learn/pandas)  
+## 🐼 [02 - Pandas](https://www.kaggle.com/learn/pandas)  
+[✅ **완료**]
+
 ⏳ 학습 기간: **25.06.29 ~ 25.07.17**
 
 ### Lecture Notes
@@ -42,35 +48,39 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 - [x] 06 - 이름 변경과 결합 ([Renaming and Combining](https://www.kaggle.com/code/residentmario/renaming-and-combining))  
 
 ### Exercises
-- [x] 01 - 생성, 읽기, 쓰기 ([Creating, Reading, and Writing]())  
-- [x] 02 - 인덱싱, 선택, 할당 ([Indexing, Selecting, and Assigning]())  
-- [x] 03 - 요약 함수와 매핑 ([Summary Functions and Maps]())  
-- [x] 04 - 그룹화와 정렬 ([Grouping and Sorting]())  
-- [x] 05 - 데이터 타입과 결측치 ([Data Types and Missing Values]())  
-- [x] 06 - 이름 변경과 결합 ([Renaming and Combining]())  
+- [x] 01 - 생성, 읽기, 쓰기 ([Creating, Reading, and Writing](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.06.29%20Creating%2C%20Reading%20and%20Writing/exercise-creating-reading-and-writing.ipynb))  
+- [x] 02 - 인덱싱, 선택, 할당 ([Indexing, Selecting, and Assigning](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.07.03%20Indexing%2C%20Selecting%20%26%20Assigning/exercise-indexing-selecting-assigning.ipynb))  
+- [x] 03 - 요약 함수와 매핑 ([Summary Functions and Maps](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.07.07%20Summary%20Functions%20and%20Maps/exercise-summary-functions-and-maps.ipynb))  
+- [x] 04 - 그룹화와 정렬 ([Grouping and Sorting](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.07.14%20Grouping%20and%20Sorting/exercise-grouping-and-sorting.ipynb))  
+- [x] 05 - 데이터 타입과 결측치 ([Data Types and Missing Values](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.07.17%20Data%20Types%20and%20Missing%20Values/exercise-data-types-and-missing-values.ipynb))  
+- [x] 06 - 이름 변경과 결합 ([Renaming and Combining](https://github.com/every1218/Kaggle-Learn/blob/main/Pandas/25.07.17%20Renaming%20and%20Combining/exercise-renaming-and-combining.ipynb))  
 
 ---
 
-## 🧹 [Tutorial 3 - Data Cleaning](https://www.kaggle.com/learn/data-cleaning)  
+## 🧹 [03 - Data Cleaning](https://www.kaggle.com/learn/data-cleaning)  
+[✅ **완료**]
+
 ⏳ 학습 기간: **25.07.02 ~ 25.07.25**
 
 ### Lecture Notes
 - [x] 01 - 결측치 다루기 ([Handling Missing Values](https://www.kaggle.com/code/alexisbcook/handling-missing-values))  
-- [x] 02 - 스케일링과 정규화 ([Scaling and Normalization](https://www.kaggle.com/code/alexisbcook/scaling-and-normalization))  
+- [x] 02 - 스케일링과 정규화 ([Scaling and Normalization](https://www.kaggle.com/code/alexisbcook/scaling-and-normalization)) 
 - [x] 03 - 날짜 파싱 ([Parsing Dates](https://www.kaggle.com/code/alexisbcook/parsing-dates))  
 - [x] 04 - 문자 인코딩 ([Character Encodings](https://www.kaggle.com/code/alexisbcook/character-encodings))  
 - [x] 05 - 불일치 데이터 입력 ([Inconsistent Data Entry](https://www.kaggle.com/code/alexisbcook/inconsistent-data-entry))  
 
 ### Exercises
-- [x] 01 - 결측치 다루기 ([Handling Missing Values]())  
-- [x] 02 - 스케일링과 정규화 ([Scaling and Normalization]())  
-- [x] 03 - 날짜 파싱 ([Parsing Dates]())  
-- [x] 04 - 문자 인코딩 ([Character Encodings]())  
-- [x] 05 - 불일치 데이터 입력 ([Inconsistent Data Entry]())  
+- [x] 01 - 결측치 다루기 ([Handling Missing Values](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.02%20Handling%20Missing%20Values/exercise-handling-missing-values.ipynb))  
+- [x] 02 - 스케일링과 정규화 ([Scaling and Normalization](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.06%20Scaling%20and%20Normalization/exercise-scaling-and-normalization.ipynb))  
+- [x] 03 - 날짜 파싱 ([Parsing Dates](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.12%20Parsing%20Dates/exercise-parsing-dates.ipynb))  
+- [x] 04 - 문자 인코딩 ([Character Encodings](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.25%20Character%20Encodings/exercise-character-encodings.ipynb))  
+- [x] 05 - 불일치 데이터 입력 ([Inconsistent Data Entry](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.25%20Inconsistent%20Data%20Entry/exercise-inconsistent-data-entry.ipynb))  
 
 ---
 
-## 🤖 [Tutorial 4 - Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
+## 🤖 [04 - Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
+[✅ **완료**]
+
 ⏳ 학습 기간: **25.07.06 ~ 25.08.08**
 
 ### Lecture Notes
@@ -83,16 +93,18 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 - [x] 07 - 머신러닝 대회 ([Machine Learning Competitions](https://www.kaggle.com/code/dansbecker/machine-learning-competitions))  
 
 ### Exercises
-- [x] 02 - 데이터 탐색 ([Explore your data]())  
-- [x] 03 - 첫 머신러닝 모델 ([Your First Machine Learning Model]())  
-- [x] 04 - 모델 검증 ([Model Validation]())  
-- [x] 05 - 과소적합과 과적합 ([Underfitting and Overfitting]())  
-- [x] 06 - 랜덤 포레스트 ([Random Forests]())  
-- [x] 07 - 머신러닝 대회 ([Machine Learning Competitions]())  
+- [x] 02 - 데이터 탐색 ([Explore your data](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.07.06%20Basic%20Data%20Exploration/exercise-explore-your-data.ipynb))  
+- [x] 03 - 첫 머신러닝 모델 ([Your First Machine Learning Model](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.07.06%20Your%20First%20Machine%20Learning%20Model/exercise-your-first-machine-learning-model.ipynb))  
+- [x] 04 - 모델 검증 ([Model Validation](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.07.07%20Model%20Validation/exercise-model-validation.ipynb))  
+- [x] 05 - 과소적합과 과적합 ([Underfitting and Overfitting](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.07.21%20Underfitting%20and%20Overfitting/exercise-underfitting-and-overfitting.ipynb))  
+- [x] 06 - 랜덤 포레스트 ([Random Forests](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.08.08%20Random%20Forests/exercise-random-forests.ipynb))  
+- [x] 07 - 머신러닝 대회 ([Machine Learning Competitions](https://github.com/every1218/Kaggle-Learn/blob/main/Intro%20to%20Machine%20Learning/25.08.08%20Machine%20Learning%20Competitions/exercise-machine-learning-competitions.ipynb))  
 
 ---
 
-## 📈 [Tutorial 5 - Data Visualization](https://www.kaggle.com/learn/data-visualization)  
+## 📈 [05 - Data Visualization](https://www.kaggle.com/learn/data-visualization)  
+[✅ **완료**]
+
 ⏳ 학습 기간: **25.07.01 ~ 25.08.16**
 
 ### Lecture Notes
@@ -106,17 +118,19 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 - [x] 08 - 나만의 노트북 만들기 ([Creating Your Own Notebook](https://www.kaggle.com/code/alexisbcook/creating-your-own-notebook))  
 
 ### Exercises
-- [x] 01 - 헬로 시본 ([Hello Seaborn]())  
-- [x] 02 - 선 그래프 ([Line Charts]())  
-- [x] 03 - 막대 그래프와 히트맵 ([Bar Charts and Heatmaps]())  
-- [x] 04 - 산점도 ([Scatter Plots]())  
-- [x] 05 - 분포 ([Distributions]())  
-- [x] 06 - 그래프 선택과 스타일 ([Choosing Plot Types and Custom Styles]())  
-- [x] 07 - 최종 프로젝트 ([Final Project]())  
+- [x] 01 - 헬로 시본 ([Hello Seaborn](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.07.01%20Hello%2C%20Seaborn/exercise-hello-seaborn.ipynb))  
+- [x] 02 - 선 그래프 ([Line Charts](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.07.01%20Line%20Charts/exercise-line-charts.ipynb))  
+- [x] 03 - 막대 그래프와 히트맵 ([Bar Charts and Heatmaps](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.07.05%20Bar%20Charts%20and%20Heatmaps/exercise-bar-charts-and-heatmaps.ipynb))  
+- [x] 04 - 산점도 ([Scatter Plots](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.07.16%20Scatter%20Plots/exercise-scatter-plots.ipynb))  
+- [x] 05 - 분포 ([Distributions](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.08.09%20Distributions/exercise-distributions.ipynb))  
+- [x] 06 - 그래프 선택과 스타일 ([Choosing Plot Types and Custom Styles](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.08.16%20Choosing%20Plot%20Types%20and%20Custom%20Styles/exercise-choosing-plot-types-and-custom-styles.ipynb))  
+- [x] 07 - 최종 프로젝트 ([Final Project](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Visualization/25.08.16%20Final%20Project/exercise-final-project.ipynb))  
 
 ---
 
-## 📊 [Tutorial 6 - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)  
+## 📊 [06 - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)  
+[🔥 **진행 중**]
+
 ⏳ 학습 기간: 
 
 ### Lecture Notes
@@ -139,7 +153,9 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 
 ---
 
-## 🧠 [Tutorial 7 - Introduction to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)  
+## 🧠 [07 - Introduction to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)  
+[📅 **예정**]
+
 ⏳ 학습 기간: 
 
 ### Lecture Notes
