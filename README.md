@@ -10,6 +10,17 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 
 ---
 
+## 📑 목차
+- ✅ [01 - Python ](#-01---python)
+- ✅ [02 - Pandas ](#-02---pandas)
+- ✅ [03 - Data Cleaning ](#-03---data-cleaning)
+- ✅ [04 - Intro to Machine Learning](#-04---intro-to-machine-learning)
+- ✅ [05 - Data Visualization](#-05---data-visualization)
+- 🔥 [06 - Intermediate Machine Learning](#-06---intermediate-machine-learning)
+- 📅 [07 - Introduction to Deep Learning](#-07---introduction-to-deep-learning)
+
+---
+
 ## 🐍 [01 - Python](https://www.kaggle.com/learn/python)  
 [✅ **완료**]
 
