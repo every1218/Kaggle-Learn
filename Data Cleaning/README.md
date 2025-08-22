@@ -16,3 +16,5 @@
 - [x] 03 - 날짜 파싱 ([Parsing Dates](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.12%20Parsing%20Dates/exercise-parsing-dates.ipynb))  
 - [x] 04 - 문자 인코딩 ([Character Encodings](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.25%20Character%20Encodings/exercise-character-encodings.ipynb))  
 - [x] 05 - 불일치 데이터 입력 ([Inconsistent Data Entry](https://github.com/every1218/Kaggle-Learn/blob/main/Data%20Cleaning/25.07.25%20Inconsistent%20Data%20Entry/exercise-inconsistent-data-entry.ipynb))  
+
+<img width="834" height="670" alt="image" src="https://github.com/user-attachments/assets/19cf6f17-20dc-4375-9c50-50d5a2c4dd21" />
