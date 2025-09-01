@@ -22,9 +22,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 🐍 [01 - Python](https://www.kaggle.com/learn/python)  
-[✅ **완료**]
 
-⏳ 학습 기간: **25.06.24 ~ 25.07.13**
+⏳ **학습 기간:** 25.06.24 ~ 25.07.13
+
+📝 **진행 상태:** 완료(✅)
 
 ### Lecture Notes
 - [x] 01 - 헬로 파이썬 ([Hello Python](https://www.kaggle.com/code/colinmorris/hello-python))
@@ -46,9 +47,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 🐼 [02 - Pandas](https://www.kaggle.com/learn/pandas)  
-[✅ **완료**]
 
-⏳ 학습 기간: **25.06.29 ~ 25.07.17**
+⏳ **학습 기간:** 25.06.29 ~ 25.07.17
+
+📝 **진행 상태:** 완료(✅)
 
 ### Lecture Notes
 - [x] 01 - 생성, 읽기, 쓰기 ([Creating, Reading, and Writing](https://www.kaggle.com/code/residentmario/creating-reading-and-writing))  
@@ -69,9 +71,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 🧹 [03 - Data Cleaning](https://www.kaggle.com/learn/data-cleaning)  
-[✅ **완료**]
 
-⏳ 학습 기간: **25.07.02 ~ 25.07.25**
+⏳ **학습 기간:** 25.07.02 ~ 25.07.25
+
+📝 **진행 상태:** 완료(✅)
 
 ### Lecture Notes
 - [x] 01 - 결측치 다루기 ([Handling Missing Values](https://www.kaggle.com/code/alexisbcook/handling-missing-values))  
@@ -90,9 +93,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 🤖 [04 - Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)  
-[✅ **완료**]
 
-⏳ 학습 기간: **25.07.06 ~ 25.08.08**
+⏳ **학습 기간:** 25.07.06 ~ 25.08.08
+
+📝 **진행 상태:** 완료(✅)
 
 ### Lecture Notes
 - [x] 01 - 모델의 작동 원리 ([How Models Work](https://www.kaggle.com/code/dansbecker/how-models-work))  
@@ -114,9 +118,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 📈 [05 - Data Visualization](https://www.kaggle.com/learn/data-visualization)  
-[✅ **완료**]
 
-⏳ 학습 기간: **25.07.01 ~ 25.08.16**
+⏳ **학습 기간:** 25.07.01 ~ 25.08.16
+
+📝 **진행 상태:** 완료(✅)
 
 ### Lecture Notes
 - [x] 01 - 헬로 시본 ([Hello Seaborn](https://www.kaggle.com/code/alexisbcook/hello-seaborn))  
@@ -140,9 +145,11 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 📊 [06 - Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)  
-[🔥 **진행 중**]
 
-⏳ 학습 기간: 
+⏳ **학습 기간:** 
+
+📝 **진행 상태:** 진행 중(🔥)
+
 
 ### Lecture Notes
 - [ ] 01 - 소개 ([Introduction](https://www.kaggle.com/code/alexisbcook/introduction))  
@@ -165,9 +172,10 @@ Kaggle 튜토리얼에서 공부한 내용과 실습 노트북을 기록, 정리
 ---
 
 ## 🧠 [07 - Introduction to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)  
-[📅 **예정**]
 
-⏳ 학습 기간: 
+⏳ **학습 기간:** 
+
+📝 **진행 상태:** 예정(📅)
 
 ### Lecture Notes
 - [ ] 01 - 단일 뉴런 ([A Single Neuron](https://www.kaggle.com/code/dansbecker/a-single-neuron))  
